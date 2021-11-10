@@ -52,3 +52,17 @@ header .navigation li a {
 header .navigation li a:hover{
     color:#03a9f4;
 }
+.content{
+    max-width: 600px;
+}
+.content .contentBx h2{
+    font-size: 4em;
+    color: #fff;
+    line-height: 1em;
+}
+.content .contentBx p{
+    font-size: 1.1em;
+    color: #fff;
+    font-weight: 300;
+    margin:20px 0;
+}
